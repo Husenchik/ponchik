@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: all 0.5s;
+}
+body{
+  background-image: url(../rasmlar/i.webp);  
+}
+.box{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+.texts{
+    color: white;
+    font-size: 30px;
+    margin-top: 80px;
+}
+.p{
+    color: wheat;
+    margin-left: 170px;
+    margin-top: -200px;
+}
+ .img-items{
+    width: 250px;
+    height: 270px;
+    margin-left: 390px;
+    border-radius: 20px;
+ }
+ .p2{
+    color: white;
+    margin-left: 660px;
+    margin-top: -20px;
+ }
+ .be{
+    border-radius: 20px;
+    margin-top: 200px;
+    margin-left: 280px;
+ }
+ .mem{
+    color: white;
+    margin-top: -200px;
+    font-size: 15px;
+    margin-left: 100px;
+ }
+ .messi{
+    color: white;
+    margin-left: 770px;
+    margin-top: -80px;
+ }
+ .bot{
+    background: blue;
+    width: 100px;
+    border: none;
+    margin-top: 150px;
+    margin-left: 450px;
+    color: white;
+    text-decoration: none;
+ }
+ .yurt{
+    background: blue;
+    width: 100px;
+    border: none;
+    margin-top: 150px;
+    margin-left: 450px;
+    color: white;
+    text-decoration: none;
+ }
+ .yurt,a{
+   color: white;
+   text-decoration: none;
+ }
+ .bot,a{
+   color: white;
+   text-decoration: none;
+ }
